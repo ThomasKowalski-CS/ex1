@@ -1,6 +1,6 @@
 /******************
 Name: Thomas Kowalski
-ID: 322887019
+ID: *********
 Assignment: Ex1
 *******************/
 #include <stdio.h>
